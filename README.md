@@ -1,0 +1,2 @@
+# Telescript
+Faddy's Telescript
